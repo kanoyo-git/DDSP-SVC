@@ -1,5 +1,5 @@
 einops
-fairseq
+https://github.com/Bebra777228/TrainVocModel-EN/releases/download/fixed-packages/fairseq-0.12.3-cp311-cp311-linux_x86_64.whl
 flask
 flask_cors
 gin
